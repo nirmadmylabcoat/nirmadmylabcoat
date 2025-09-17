@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjana! Doing my bachelors in CSE at VIT-Vellore, India.
 - 👀 I’m interested in sketching, reading self help books, coding :p
-- 🌱 I’m currently learning front end in web development (html, css, js, reactjs)
+- 🌱 My skills lie in front end webdev, ai/ml, cryptography and I'm currently getting into web testing (selenium)
 - 📫 How to reach me - sanjanaxrx@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm a sucker for pastel stuff lol. 
