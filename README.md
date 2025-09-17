@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjana! Doing my bachelors in CSE at VIT-Vellore, India.
+- 👋 Hi, I’m Sanjana! Doing my bachelors in CSE at VIT-Vellore, India. Currently in my final year.
 - 👀 I’m interested in sketching, reading self help books, coding :p
 - 🌱 My skills lie in front end webdev, ai/ml, cryptography and I'm currently getting into web testing (selenium)
 - 📫 How to reach me - sanjanaxrx@gmail.com
